@@ -6,7 +6,7 @@
 - **ინდივიდუალური დავალება:** სასტუმროს ნომრების კატალოგი, ძებნა და ფილტრაცია
 - **GitHub Repository: https://github.com/verikoveko/react-1-2-3.git
 - **Branch:** feature/hotel-booking
-- **ბოლო Commit-ის Hash: "first commit"
+- **ბოლო Commit-ის Hash: 0492d14
 
 ## გამოყენებული ტექნოლოგიები
 
